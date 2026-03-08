@@ -1,6 +1,6 @@
 # c2pa-mcp-rs
 
-MCP server for reading **C2PA Content Credentials** from images and media. Rust only (no Python): embedded C2PA via the [c2pa](https://crates.io/crates/c2pa) crate, watermark fallback via the [TrustMark](https://docs.rs/trustmark/latest/trustmark/) crate.
+MCP server for reading **Content Credentials (C2PA)** from images and media. Embedded C2PA via the [c2pa](https://crates.io/crates/c2pa) crate, watermark fallback via the [TrustMark](https://docs.rs/trustmark/latest/trustmark/) crate.
 
 ## Install
 
