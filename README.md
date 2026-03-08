@@ -1,6 +1,8 @@
 # c2pa-mcp-rs
 
-MCP server for reading **Content Credentials (C2PA)** from images and media. Embedded C2PA via the [c2pa](https://crates.io/crates/c2pa) crate, watermark fallback via the [TrustMark](https://docs.rs/trustmark/latest/trustmark/) crate.
+MCP server for reading **Content Credentials (C2PA)** from images and media. Embedded C2PA via the [c2pa](https://crates.io/crates/c2pa) crate, watermark fallback via the [TrustMark](https://docs.rs/trustmark/latest/trustmark/) crate. Works best for:
+- Inspecting assets via URL
+- Providing a path to a locally stored file
 
 ## Install
 
